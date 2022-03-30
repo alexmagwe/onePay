@@ -8,4 +8,6 @@ class Routes {
   static const register = '/register';
   static const history = '/history';
   static const futurePay = '/futurepay';
+  static const addTagWithId = '/tag/id';
+  static const addTagWithQr = '/tag/qr';
 }
